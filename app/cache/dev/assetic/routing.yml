@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /Users/danielrodriguez/tests/heroku-test2/app/config/routing_dev.yml
